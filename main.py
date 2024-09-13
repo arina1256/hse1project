@@ -110,7 +110,7 @@ movePen(cursor, 50, -15)
 cursor.setheading(0)
 cursor.forward(whiskerLength)
 
-movePen(cursor, 50, 0)
+movePen(cursor, 90, 0)
 cursor.left(5)
 cursor.forward(whiskerLength)
 
